@@ -8,12 +8,16 @@
 </head>
 <body>
     <?php
-    echo 118444122;
-    echo "joshua dunlea";
-    echo '<a href=" https://is118444122.herokuapp.com/">Heroku</a>';
-    echo '<a href=" https://github.com/118444122/joshuasproject">Github</a>';
     
-    echo '<a href="http://localhost:8000/startbootstrap-resume-gh-pages/index.html">Index</a>';
+    echo "Student Number : 118444122 ";
+   echo "<br></br>";
+    echo "Name : joshua dunlea";
+    echo "<br></br>";
+    echo '<a href=" https://is118444122.herokuapp.com/">Heroku Link</a>';
+    echo "<br></br>";
+    echo '<a href=" https://github.com/118444122/joshuasproject">Github Link</a>';
+    echo "<br></br>";
+    echo '<a href="http://localhost:8000/startbootstrap-resume-gh-pages/index.html">Index Link</a>';
     ?>
 </body>
 
