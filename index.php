@@ -17,7 +17,7 @@
     echo "<br></br>";
     echo '<a href=" https://github.com/118444122/joshuasproject">Github Link</a>';
     echo "<br></br>";
-    echo '<a href="http://localhost:8000/startbootstrap-resume-gh-pages/index.html">Index Link</a>';
+    echo '<a href="http://startbootstrap-resume-gh-pages/index.html">Index Link</a>';
     ?>
 </body>
 
